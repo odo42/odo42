@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Oanh! (Pronouns: one)
+### 👋 Hi, I'm Oanh!
 
 - 🌱 System Admin student sharing about my journey and learning in tech<br/>
 
