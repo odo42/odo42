@@ -43,10 +43,10 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odo42&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=odo42&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
 </p>
 
 ### ✍️ Dev Quote of the day
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" />
 </p> 
