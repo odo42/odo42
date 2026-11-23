@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/oanhdo42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-France-0055A4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20(B2)-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20-2ea44f?style=for-the-badge" />
 </p>
 
 ---
