@@ -7,17 +7,16 @@
 <p align="center">
   <a href="https://odo42.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&logoColor=green&link=https%3A%2F%2Fodo42.github.io%2F" /></a>
   <a href="https://linkedin.com/in/oanhdo42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-France-0055A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20-2ea44f?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Currently pursuing a **Bachelor's in Systems & Network Administration** in France.
-- 🛡️ Completed **Cisco CyberOps Associate** training with a focus on network defense, SIEM monitoring, and incident analysis.
-- 🔧 Former **Technical Support Specialist** for smart home & wearable ecosystems—bringing real-world root-cause troubleshooting and user-focused diagnostics to infrastructure engineering.
-- 🌍 Relocated to France 2 years ago and **self-taught French to a B2 level within one year**.
+- 🎓 Currently pursuing a Bachelor's in Systems & Network Administration in France.
+- 🛡️ Completed Cisco CyberOps Associate training with a focus on network defense, SIEM monitoring, and incident analysis.
+- 🔧 Former Technical Support Specialist for smart home & wearable ecosystems—bringing real-world root-cause troubleshooting and user-focused diagnostics to infrastructure engineering.
+- 🌍 Relocated to France 2 years ago and self-taught French to a B2 level within one year.
 - 🎯 **Goal:** Building secure, resilient network and server infrastructures (on-prem & hybrid) and seeking opportunities in **Systems & Network Administration / Infrastructure**.
 
 ---
