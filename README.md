@@ -5,6 +5,7 @@
 <h3 align="center">Systems, Network & Infrastructure Bachelor Student | Cisco CyberOps Trained</h3>
 
 <p align="center">
+  <a href="https://odo42.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-green?style=for-the-badge&logoColor=green&link=https%3A%2F%2Fodo42.github.io%2F" /></a>
   <a href="https://linkedin.com/in/oanhdo42"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-France-0055A4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-English%20%7C%20French%20-2ea44f?style=for-the-badge" />
